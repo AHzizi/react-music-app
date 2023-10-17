@@ -8,12 +8,12 @@ import AboutImg from "../Elements/About/AboutImg";
 import { RiFacebookCircleFill, RiLinkedinBoxFill, RiMailLine } from "react-icons/ri";
 
 function About({ uiState, setUiState }) {
-    let questionOne = "What even is ChillyPopper?";
+    let questionOne = "What even is This?";
     let answerOne =
-        "In simple words, it is a music player without ads or distractions that allows you to listen to chillpop music (hence the name...) while you’re coding or doing other work. It is just a weekend project and uses music available on Chillhop (details below)";
+        "In simple words, it is a music player without ads or distractions that allows you to listen to FLAC Music Version";
     let questionTwo = "Who made this?";
     let answerTwo =
-        "This project was created by Priyanshu Bharti. A Computer Applications student, developer, and designer who likes creating awesome things that live on the internet! If you like what you just saw and would like to see more, then scroll below to check his socials!";
+        "This project was created by Miftakul Azizi. A Computer Applications student, developer, and designer who likes creating awesome things that live on the internet! If you like what you just saw and would like to see more, then scroll below to check his socials!";
 
     return (
         <div className={`about ${uiState.aboutShown ? "" : "about--hidden"}`}>
@@ -22,10 +22,8 @@ function About({ uiState, setUiState }) {
                 {/* Need our headline */}
                 <div className="about-group">
                     <p>Hey There,</p>
-                    <AboutHeadline content="Welcome to ChillyPopper!" />
+                    <AboutHeadline content="Welcome to Flacless!" />
                 </div>
-                {/* Need img */}
-                <AboutImg />
                 {/* Need Questions */}
                 <div className="about-group">
                     <AboutQuestionTitle content={questionOne} />
