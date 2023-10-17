@@ -2,14 +2,14 @@ import { v4 as uuidv4 } from "uuid";
 
 const songData = [
     {
-        title: "Glaciar",
-        artist: "Juan Rios",
+        title: "Who's Ready For Tomorrow",
+        artist: "Rat Boy, IBDY",
         coverUrl:
-            "https://chillhop.com/wp-content/uploads/2021/07/4163ebb931e06d4ee8eb184295c0246d4a5055f7-1024x1024.jpg",
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1697093205/WhosReadyforTomorrow_dg7buq.jpg",
         thumbUrl:
-            "https://chillhop.com/wp-content/uploads/2021/07/4163ebb931e06d4ee8eb184295c0246d4a5055f7-150x150.jpg",
-        audio: "https://mp3.chillhop.com/serve.php/?mp3=21648",
-        palette: "coral",
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1697093205/WhosReadyforTomorrow_dg7buq.jpg",
+        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1697091102/WhosReadyforTomorrow_ij1zsc.mp3",
+        palette: "yellow",
         id: uuidv4(),
     },
     {
