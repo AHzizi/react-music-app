@@ -5,7 +5,7 @@ import AboutHeadline from "../Elements/About/AboutHeadline";
 import AboutQuestionTitle from "../Elements/About/AboutQuestionTitle";
 import AboutQuestionAnswer from "../Elements/About/AboutQuestionAnswer";
 import AboutImg from "../Elements/About/AboutImg";
-import { RiInstagramLine, RiLinkedinBoxFill, RiMailLine } from "react-icons/ri";
+import { RiFacebookCircleFill, RiLinkedinBoxFill, RiMailLine } from "react-icons/ri";
 
 function About({ uiState, setUiState }) {
     let questionOne = "What even is ChillyPopper?";
@@ -40,26 +40,26 @@ function About({ uiState, setUiState }) {
 
                 {/* Second Headline */}
                 <div className="about-group">
-                    <p>Priyanshu's</p>
+                    <p>AHzizi</p>
                     <AboutHeadline content="Socials" />
                 </div>
 
                 {/* Socials */}
                 <div className="about-socials">
                     <div className="about-socials-group">
-                        <RiInstagramLine className="about-socials-icon" />
-                        <p className="about-socials-text">@_priyanshubharti</p>
+                        <RiFacebookCircleFill className="about-socials-icon" />
+                        <p className="about-socials-text">/miftakul.azizi0</p>
                     </div>
                     <div className="about-socials-group">
                         <RiLinkedinBoxFill className="about-socials-icon" />
                         <p className="about-socials-text">
-                            /in/priyanshubharti
+                            /in/miftakul-azizi-a3887a226
                         </p>
                     </div>
                     <div className="about-socials-group">
                         <RiMailLine className="about-socials-icon" />
                         <p className="about-socials-text">
-                            priyanshub25dev@gmail.com
+                            miftakulazizi0@gmail.com
                         </p>
                     </div>
                 </div>

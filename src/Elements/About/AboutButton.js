@@ -6,7 +6,8 @@ import shadow from "../../Utils/Shadows";
 function AboutButton() {
     return (
         <a
-            href="#"
+            href="https://azizii.my.id"
+            target="blank"
             className="button button--primary"
             style={{
                 boxShadow: `${shadow(0, 2, 10, 0, colors.pink)}`,
