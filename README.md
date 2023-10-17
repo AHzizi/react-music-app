@@ -1,38 +1,3 @@
-<div id="top"></div>
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary><b>Table of Contents</b></summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
-<!-- ABOUT THE PROJECT -->
-
-## About The Project
-
-[![Chillypopper][product-screenshot]](https://example.com)
-
-This was a weekend project that I created while learning the popular javascript framework, React. Feel free to fork this project and add your own stuff to it.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
 
@@ -48,14 +13,6 @@ This was a weekend project that I created while learning the popular javascript 
 ## Getting Started
 
 Follow these steps to install the project on your local system.
-
-### Prerequisites
-
-Clone the repository
-
-```sh
-git clone https://github.com/priyanshu-bharti/chillypopper-react.git
-```
 
 ### Installation
 
@@ -83,7 +40,7 @@ git clone https://github.com/priyanshu-bharti/chillypopper-react.git
     ```
     again
 
-    
+
 3. Start the project from the root of the directory
    ```sh
    npm start
