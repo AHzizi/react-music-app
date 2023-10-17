@@ -64,9 +64,27 @@ git clone https://github.com/priyanshu-bharti/chillypopper-react.git
    npm install
 
    Recomended For Use node ver v14.xx.x
-   or You Should Check This ${<a href="https://github.com/nvm-sh/nvm">}
+   or You Should Check This https://github.com/nvm-sh/nvm
    ```
-2. Start the project from the root of the directory
+
+2. If You Have Error You Should Run Command
+   ```sh
+   npm uninstall node-sass
+   ```
+   Update your build scripts or configurations to use the sass command instead of node-sass.
+   and use Command
+   ```sh
+   npm install sass
+   ```
+    And Run 
+    ```sh
+    npm install
+
+    ```
+    again
+
+    
+3. Start the project from the root of the directory
    ```sh
    npm start
    ```
