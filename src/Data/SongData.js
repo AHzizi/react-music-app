@@ -101,6 +101,17 @@ const songData = [
         palette: "orange",
         id: uuidv4(),
     },
+    // {
+    //     title: "Ekspektasi",
+    //     artist: "Ocan Siagian & Okin",
+    //     coverUrl:
+    //         "https://res.cloudinary.com/dvdola2py/image/upload/v1697680796/okin-ekspektasi-feat-ocan-siagian-single_hati5b.jpg",
+    //     thumbUrl:
+    //         "https://res.cloudinary.com/dvdola2py/image/upload/v1697680796/okin-ekspektasi-feat-ocan-siagian-single_hati5b.jpg",
+    //     audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1697680800/Ocan_Siagian_feat._Okin_-_Ekspektasi_Official_Video_owzc19.mp3",
+    //     palette: "orange",
+    //     id: uuidv4(),
+    // },
 ];
 
 export default songData;
