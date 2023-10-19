@@ -46,6 +46,17 @@ const songData = [
         palette: "grey",
         id: uuidv4(),
     },
+    {
+        title: "Where Our Blue Is",
+        artist: "Tatsuya Kitani",
+        coverUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1697672947/Yc5VqWs43Q0hd_osyjts.jpg",
+        thumbUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1697672947/Yc5VqWs43Q0hd_osyjts.jpg",
+        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1697672953/Where_Our_Blue_Is_fznldo.mp3",
+        palette: "blue",
+        id: uuidv4(),
+    },
 ];
 
 export default songData;
