@@ -68,6 +68,39 @@ const songData = [
         palette: "white",
         id: uuidv4(),
     },
+    {
+        title: "I Really Want to Stay at Your House",
+        artist: "Rosa Walton & Hallie Coggins Remix By Samuel Kim & Lorien",
+        coverUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1697680297/9B0yX0UIN9Mhd_vshu08.jpg",
+        thumbUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1697680297/9B0yX0UIN9Mhd_vshu08.jpg",
+        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1697680303/I_Really_Want_to_Stay_at_Your_House_mfeazn.mp3",
+        palette: "blue",
+        id: uuidv4(),
+    },
+    {
+        title: "Daisy",
+        artist: "Kyo Hanabasami",
+        coverUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1697680796/ade1Z0s2-Fshd_ez7ad1.jpg",
+        thumbUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1697680796/ade1Z0s2-Fshd_ez7ad1.jpg",
+        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1697680580/Daisy_juije7.mp3",
+        palette: "yellow",
+        id: uuidv4(),
+    },
+    {
+        title: "Ekspektasi",
+        artist: "Ocan Siagian & Okin",
+        coverUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1697680796/okin-ekspektasi-feat-ocan-siagian-single_hati5b.jpg",
+        thumbUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1697680796/okin-ekspektasi-feat-ocan-siagian-single_hati5b.jpg",
+        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1697680800/Ocan_Siagian_feat._Okin_-_Ekspektasi_Official_Video_owzc19.mp3",
+        palette: "orange",
+        id: uuidv4(),
+    },
 ];
 
 export default songData;
