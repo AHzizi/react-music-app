@@ -64,7 +64,7 @@ const songData = [
             "https://res.cloudinary.com/dvdola2py/image/upload/v1697674660/TxWJPjaXbLkhd_mol4o6.jpg",
         thumbUrl:
             "https://res.cloudinary.com/dvdola2py/image/upload/v1697674660/TxWJPjaXbLkhd_mol4o6.jpg",
-        audio: "hhttps://res.cloudinary.com/dvdola2py/video/upload/v1697674670/%E5%90%9B%E3%81%AB%E3%81%B5%E3%82%8C%E3%81%A6_ewx8wp.mp3",
+        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1697674670/%E5%90%9B%E3%81%AB%E3%81%B5%E3%82%8C%E3%81%A6_ewx8wp.mp3",
         palette: "white",
         id: uuidv4(),
     },
