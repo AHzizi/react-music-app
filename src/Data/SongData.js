@@ -119,7 +119,7 @@ const songData = [
         title: "She Works Out Too Much",
         artist: "MGMT",
         coverUrl:
-            "https://res.cloudinary.com/dvdola2py/image/upload/v1697758831/She_Works_Out_Too_Much_thi1ul.jpg",
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1697761506/She_Works_Out_Too_Much_qt1xcy.jpg",
         thumbUrl:
             "https://res.cloudinary.com/dvdola2py/image/upload/v1697758831/She_Works_Out_Too_Much_thi1ul.jpg",
         audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1697758836/She_Works_Out_Too_Much_jibzai.mp3",
