@@ -1,6 +1,40 @@
 import { v4 as uuidv4 } from "uuid";
 
 const songData = [
+
+    {
+        title: "After Dark",
+        artist: "Mr.Kitty",
+        coverUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1697515682/a6a543a0dd8f921e6c05e1987fba2170_j3dntq.jpg",
+        thumbUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1697515682/a6a543a0dd8f921e6c05e1987fba2170_j3dntq.jpg",
+        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1697515586/Mr_Kitty_-_Time_-_09_After_Dark_viz2st.flac",
+        palette: "grey",
+        id: uuidv4(),
+    },
+    {
+        title: "Nemen",
+        artist: "Yonanda Frisna Damara | NDX",
+        coverUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1697761704/ndx_zucnnc.jpg",
+        thumbUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1697761704/ndx_zucnnc.jpg",
+        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1697761708/Nemen_vjk2z2.mp3",
+        palette: "teal",
+        id: uuidv4(),
+    },
+    {
+        title: "Gradation",
+        artist: "KANA-BOON",
+        coverUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1697515395/maxresdefault_dlnmt6.jpg",
+        thumbUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1697515395/maxresdefault_dlnmt6.jpg",
+        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1697515400/Gradation_mnqocd.mp3",
+        palette: "purple",
+        id: uuidv4(),
+    },
     {
         title: "幸せ | Happiness",
         artist: "Omoinotake",
@@ -24,28 +58,8 @@ const songData = [
         palette: "yellow",
         id: uuidv4(),
     },
-    {
-        title: "Gradation",
-        artist: "KANA-BOON",
-        coverUrl:
-            "https://res.cloudinary.com/dvdola2py/image/upload/v1697515395/maxresdefault_dlnmt6.jpg",
-        thumbUrl:
-            "https://res.cloudinary.com/dvdola2py/image/upload/v1697515395/maxresdefault_dlnmt6.jpg",
-        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1697515400/Gradation_mnqocd.mp3",
-        palette: "purple",
-        id: uuidv4(),
-    },
-    {
-        title: "After Dark",
-        artist: "Mr.Kitty",
-        coverUrl:
-            "https://res.cloudinary.com/dvdola2py/image/upload/v1697515682/a6a543a0dd8f921e6c05e1987fba2170_j3dntq.jpg",
-        thumbUrl:
-            "https://res.cloudinary.com/dvdola2py/image/upload/v1697515682/a6a543a0dd8f921e6c05e1987fba2170_j3dntq.jpg",
-        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1697515586/Mr_Kitty_-_Time_-_09_After_Dark_viz2st.flac",
-        palette: "grey",
-        id: uuidv4(),
-    },
+   
+    
     {
         title: "Where Our Blue Is",
         artist: "Tatsuya Kitani",
@@ -150,6 +164,8 @@ const songData = [
         palette: "blue",
         id: uuidv4(),
     },
+
+
 ];
 
 export default songData;
