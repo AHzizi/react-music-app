@@ -102,19 +102,54 @@ const songData = [
         id: uuidv4(),
     },
 
-    // Add Music Here
     
-    // {
-    //     title: "Ekspektasi",
-    //     artist: "Ocan Siagian & Okin",
-    //     coverUrl:
-    //         "https://res.cloudinary.com/dvdola2py/image/upload/v1697680796/okin-ekspektasi-feat-ocan-siagian-single_hati5b.jpg",
-    //     thumbUrl:
-    //         "https://res.cloudinary.com/dvdola2py/image/upload/v1697680796/okin-ekspektasi-feat-ocan-siagian-single_hati5b.jpg",
-    //     audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1697680800/Ocan_Siagian_feat._Okin_-_Ekspektasi_Official_Video_owzc19.mp3",
-    //     palette: "orange",
-    //     id: uuidv4(),
-    // },
+    {
+        title: "Irokousui",
+        artist: "Yoh Kamiyama",
+        coverUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1697758668/irokousui_uunmbr.png",
+        thumbUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1697758668/irokousui_uunmbr.png",
+        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1697758671/irokousui_idy6u7.mp3",
+        palette: "orange",
+        id: uuidv4(),
+    },
+
+    {
+        title: "She Works Out Too Much",
+        artist: "MGMT",
+        coverUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1697758831/She_Works_Out_Too_Much_thi1ul.jpg",
+        thumbUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1697758831/She_Works_Out_Too_Much_thi1ul.jpg",
+        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1697758836/She_Works_Out_Too_Much_jibzai.mp3",
+        palette: "yellow",
+        id: uuidv4(),
+    },
+
+    {
+        title: "Ghost City Tokyo",
+        artist: "Ayase Cover By Jiakaira",
+        coverUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1697759558/Ghost_City_Tokyo_ythik1.jpg",
+        thumbUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1697759558/Ghost_City_Tokyo_ythik1.jpg",
+        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1697759566/Ghost_City_Tokyo_aadm5o.mp3",
+        palette: "yellow",
+        id: uuidv4(),
+    },
+
+    {
+        title: "Bury The Light",
+        artist: "Casey Edwards",
+        coverUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1697759558/Bury_The_Light_camr07.webp",
+        thumbUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1697759558/Bury_The_Light_camr07.webp",
+        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1697759603/Bury_The_Light_fo5cmd.flac",
+        palette: "blue",
+        id: uuidv4(),
+    },
 ];
 
 export default songData;
