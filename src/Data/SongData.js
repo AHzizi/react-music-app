@@ -165,6 +165,18 @@ const songData = [
         id: uuidv4(),
     },
 
+    {
+        title: "COLORs",
+        artist: "Sawano Hiroyuki",
+        coverUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1698028606/O4DaFgWgyw8hd_pnfwko.jpg",
+        thumbUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1698028606/O4DaFgWgyw8hd_pnfwko.jpg",
+        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1698028608/COLORs_tkyxix.mp3",
+        palette: "green",
+        id: uuidv4(),
+    },
+
 
 ];
 
