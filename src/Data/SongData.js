@@ -58,6 +58,17 @@ const songData = [
         id: uuidv4(),
     },
     {
+        title: "Somebody That I Used To Know",
+        artist: "Gotye feat. Kimbra 1988 ",
+        coverUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1698296068/Gotye_featuring_Kimbra_-_Somebody_That_I_Used_to_Know_pnncjh.png",
+        thumbUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1698296068/Gotye_featuring_Kimbra_-_Somebody_That_I_Used_to_Know_pnncjh.png",
+        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1698296071/Gotye_feat._Kimbra_1988_Somebody_That_I_Used_To_Know_music_video_buitoe.mp3",
+        palette: "grey",
+        id: uuidv4(),
+    },
+    {
         title: "Love Letter",
         artist: "YOASOBI",
         coverUrl:
