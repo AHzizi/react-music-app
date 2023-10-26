@@ -14,6 +14,17 @@ const songData = [
         id: uuidv4(),
     },
     {
+        title: "SPECIALZ",
+        artist: "King GNU",
+        coverUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1698294403/cover_ydmnl8.jpg",
+        thumbUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1698294403/cover_ydmnl8.jpg",
+        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1698294422/01_King_Gnu_-_SPECIALZ_sdofbd.flac",
+        palette: "orange",
+        id: uuidv4(),
+    },
+    {
         title: "Nemen",
         artist: "NDX",
         coverUrl:
