@@ -47,6 +47,50 @@ const songData = [
         id: uuidv4(),
     },
     {
+        title: "If i Could Draw Life",
+        artist: "YOASOBI",
+        coverUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1698295258/Cover_1_n3awh5.jpg",
+        thumbUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1698295258/Cover_1_n3awh5.jpg",
+        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1698295219/02._If_I_Could_Draw_Life_arskwt.flac",
+        palette: "blue",
+        id: uuidv4(),
+    },
+    {
+        title: "Love Letter",
+        artist: "YOASOBI",
+        coverUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1698295258/Cover_1_n3awh5.jpg",
+        thumbUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1698295258/Cover_1_n3awh5.jpg",
+        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1698295249/08._Love_Letter_iwjfoj.flac",
+        palette: "blue",
+        id: uuidv4(),
+    },
+    {
+        title: "The Blessing",
+        artist: "YOASOBI",
+        coverUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1698295258/Cover_1_n3awh5.jpg",
+        thumbUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1698295258/Cover_1_n3awh5.jpg",
+        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1698295238/01._The_Blessing_fhuvfr.flac",
+        palette: "blue",
+        id: uuidv4(),
+    },
+    {
+        title: "Romance",
+        artist: "YOASOBI",
+        coverUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1698295258/Cover_1_n3awh5.jpg",
+        thumbUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1698295258/Cover_1_n3awh5.jpg",
+        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1698295231/03._Romance_crqeq4.flac",
+        palette: "blue",
+        id: uuidv4(),
+    },
+    {
         title: "Nemen",
         artist: "NDX",
         coverUrl:
