@@ -176,6 +176,17 @@ const songData = [
         palette: "green",
         id: uuidv4(),
     },
+    {
+        title: "Yume wa Mijikashi Koiseyo Otome",
+        artist: "Akiho Suzumoto",
+        coverUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1698293975/Cover_cvia6g.jpg",
+        thumbUrl:
+            "https://res.cloudinary.com/dvdola2py/video/upload/v1698294011/01._%E5%A4%A2%E3%81%AF%E7%9F%AD%E3%81%97%E6%81%8B%E3%81%9B%E3%82%88%E4%B9%99%E5%A5%B3_cff1rd.flac",
+        audio: "",
+        palette: "cyan",
+        id: uuidv4(),
+    },
 
 
 ];
