@@ -14,6 +14,17 @@ const songData = [
         id: uuidv4(),
     },
     {
+        title: "Where Our Blue Is",
+        artist: "Tatsuya Kitani",
+        coverUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1697672947/Yc5VqWs43Q0hd_osyjts.jpg",
+        thumbUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1697672947/Yc5VqWs43Q0hd_osyjts.jpg",
+        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1697672953/Where_Our_Blue_Is_fznldo.mp3",
+        palette: "blue",
+        id: uuidv4(),
+    },
+    {
         title: "SPECIALZ",
         artist: "King GNU",
         coverUrl:
@@ -22,6 +33,17 @@ const songData = [
             "https://res.cloudinary.com/dvdola2py/image/upload/v1698294403/cover_ydmnl8.jpg",
         audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1698294422/01_King_Gnu_-_SPECIALZ_sdofbd.flac",
         palette: "orange",
+        id: uuidv4(),
+    },
+    {
+        title: "Idol (English Ver)",
+        artist: "YOASOBI",
+        coverUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1698294981/Cover_lai9id.jpg",
+        thumbUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1698294981/Cover_lai9id.jpg",
+        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1698294985/01._Idol_paz8lw.mp3",
+        palette: "purple",
         id: uuidv4(),
     },
     {
@@ -71,17 +93,7 @@ const songData = [
     },
    
     
-    {
-        title: "Where Our Blue Is",
-        artist: "Tatsuya Kitani",
-        coverUrl:
-            "https://res.cloudinary.com/dvdola2py/image/upload/v1697672947/Yc5VqWs43Q0hd_osyjts.jpg",
-        thumbUrl:
-            "https://res.cloudinary.com/dvdola2py/image/upload/v1697672947/Yc5VqWs43Q0hd_osyjts.jpg",
-        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1697672953/Where_Our_Blue_Is_fznldo.mp3",
-        palette: "blue",
-        id: uuidv4(),
-    },
+    
     {
         title: "Kimi Ni Furete | 君にふれて",
         artist: "安月名莉子",
