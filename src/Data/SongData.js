@@ -15,7 +15,7 @@ const songData = [
     },
     {
         title: "Nemen",
-        artist: "Yonanda Frisna Damara | NDX",
+        artist: "NDX",
         coverUrl:
             "https://res.cloudinary.com/dvdola2py/image/upload/v1697761704/ndx_zucnnc.jpg",
         thumbUrl:
