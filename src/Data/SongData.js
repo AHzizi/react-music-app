@@ -47,6 +47,17 @@ const songData = [
         id: uuidv4(),
     },
     {
+        title: "Centimeter",
+        artist: "The Peggies",
+        coverUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1698375866/cover_hyeyyr.jpg",
+        thumbUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1698375866/cover_hyeyyr.jpg",
+        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1698375884/01_Centimeter_fzra9b.flac",
+        palette: "cyan",
+        id: uuidv4(),
+    },
+    {
         title: "If i Could Draw Life",
         artist: "YOASOBI",
         coverUrl:
@@ -194,7 +205,7 @@ const songData = [
         id: uuidv4(),
     },
 
-    
+
     {
         title: "Irokousui",
         artist: "Yoh Kamiyama",
