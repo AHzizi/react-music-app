@@ -124,6 +124,28 @@ const songData = [
         id: uuidv4(),
     },
     {
+        title: "Cahaya Cintamu",
+        artist: "NDX",
+        coverUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1698713193/Cahaya_Cintamu_neaaqp.jpg",
+        thumbUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1698713193/Cahaya_Cintamu_neaaqp.jpg",
+        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1698713044/Cahaya_Cintamu_q0s4ez.mp3",
+        palette: "teal",
+        id: uuidv4(),
+    },
+    {
+        title: "Goblok",
+        artist: "NDX",
+        coverUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1698713193/Goblok_v7ngw7.jpg",
+        thumbUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1698713193/Goblok_v7ngw7.jpg",
+        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1698713045/Goblok_qfzktd.mp3",
+        palette: "pink",
+        id: uuidv4(),
+    },
+    {
         title: "Gradation",
         artist: "KANA-BOON",
         coverUrl:
