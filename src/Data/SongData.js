@@ -40,11 +40,33 @@ const songData = [
         title: "Idol (English Ver)",
         artist: "YOASOBI",
         coverUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1699660104/COVER_ottglt.jpg",
+        thumbUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1699660104/COVER_ottglt.jpg",
+        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1699660114/1_-_Chiisana_Hibi_kjwpea.flac",
+        palette: "yellow",
+        id: uuidv4(),
+    },
+    {
+        title: "Idol (English Ver)",
+        artist: "YOASOBI",
+        coverUrl:
             "https://res.cloudinary.com/dvdola2py/image/upload/v1698294981/Cover_lai9id.jpg",
         thumbUrl:
             "https://res.cloudinary.com/dvdola2py/image/upload/v1698294981/Cover_lai9id.jpg",
         audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1698294985/01._Idol_paz8lw.mp3",
         palette: "purple",
+        id: uuidv4(),
+    },
+    {
+        title: "Racing Into The Night",
+        artist: "YOASOBI",
+        coverUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1699659918/Cover_opv2et.jpg",
+        thumbUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1699659918/Cover_opv2et.jpg",
+        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1699659943/01_%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B_kldhot.flac",
+        palette: "pink",
         id: uuidv4(),
     },
     {
