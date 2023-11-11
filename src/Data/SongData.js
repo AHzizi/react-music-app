@@ -37,8 +37,8 @@ const songData = [
         id: uuidv4(),
     },
     {
-        title: "Idol (English Ver)",
-        artist: "YOASOBI",
+        title: "Chiisana Hibi | Kakushigoto OST",
+        artist: "Flumpool",
         coverUrl:
             "https://res.cloudinary.com/dvdola2py/image/upload/v1699660104/COVER_ottglt.jpg",
         thumbUrl:
