@@ -147,6 +147,17 @@ const songData = [
         id: uuidv4(),
     },
     {
+        title: "Antara Benci & Rindu",
+        artist: "NDX",
+        coverUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1697761704/ndx_zucnnc.jpg",
+        thumbUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1697761704/ndx_zucnnc.jpg",
+        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1700707930/NDX_A.K.A_-_Antara_Benci_Dan_Rindu_ggzi0o.mp3",
+        palette: "teal",
+        id: uuidv4(),
+    },
+    {
         title: "Cahaya Cintamu",
         artist: "NDX",
         coverUrl:
