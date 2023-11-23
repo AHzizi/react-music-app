@@ -274,6 +274,17 @@ const songData = [
         palette: "yellow",
         id: uuidv4(),
     },
+    {
+        title: "When You Die",
+        artist: "MGMT",
+        coverUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1697761506/She_Works_Out_Too_Much_qt1xcy.jpg",
+        thumbUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1697761506/She_Works_Out_Too_Much_qt1xcy.jpg",
+        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1700707714/MGMT_-_When_You_Die_wjrizp.mp3",
+        palette: "yellow",
+        id: uuidv4(),
+    },
 
     {
         title: "Ghost City Tokyo",
