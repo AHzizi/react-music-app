@@ -4,7 +4,6 @@ import AboutButton from "../Elements/About/AboutButton";
 import AboutHeadline from "../Elements/About/AboutHeadline";
 import AboutQuestionTitle from "../Elements/About/AboutQuestionTitle";
 import AboutQuestionAnswer from "../Elements/About/AboutQuestionAnswer";
-import AboutImg from "../Elements/About/AboutImg";
 import { RiFacebookCircleFill, RiLinkedinBoxFill, RiMailLine } from "react-icons/ri";
 
 function About({ uiState, setUiState }) {
