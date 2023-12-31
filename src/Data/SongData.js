@@ -15,6 +15,17 @@ const songData = [
         id: uuidv4(),
     },
     {
+        title: "The Best Boy",
+        artist: "Sukimaswitch",
+        coverUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1704004448/misxfuojjoyezcomueeq.jpg",
+        thumbUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1704004448/misxfuojjoyezcomueeq.jpg",
+        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1704004590/ekojwk8ji2ges2x7aima.mp3",
+        palette: "yellow",
+        id: uuidv4(),
+    },
+    {
         title: "Where Our Blue Is",
         artist: "Tatsuya Kitani",
         coverUrl:
