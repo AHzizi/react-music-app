@@ -26,6 +26,50 @@ const songData = [
         id: uuidv4(),
     },
     {
+        title: "Bernafas Tanpamu",
+        artist: "Last Child",
+        coverUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1704334537/artworks-000115496165-v54kpa-original_a2gz9s.jpg",
+        thumbUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1704334537/artworks-000115496165-v54kpa-original_a2gz9s.jpg",
+        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1704334541/Last_Child_-_Bernafas_Tanpamu_nd2qlq.mp3",
+        palette: "dark",
+        id: uuidv4(),
+    },
+    {
+        title: "Sekuat Hatimu",
+        artist: "Last Child",
+        coverUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1704334773/artworks-000203031424-6goyft-original_lh19v7.jpg",
+        thumbUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1704334773/artworks-000203031424-6goyft-original_lh19v7.jpg",
+        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1704334778/Lastchild_-_Sekuat_Hatimu_pn5man.mp3",
+        palette: "dark",
+        id: uuidv4(),
+    },
+    {
+        title: "Koimeguri",
+        artist: "Yoh Kamiyama",
+        coverUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1704333996/pj0SVeyjmNchd_htawad.jpg",
+        thumbUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1704333996/pj0SVeyjmNchd_htawad.jpg",
+        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1704334013/01._Koimeguri_obj7ys.mp3",
+        palette: "blue",
+        id: uuidv4(),
+    },
+    {
+        title: "Di Sisimu | 貴方の側に。 ",
+        artist: "Riria",
+        coverUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1704334368/Riria-Anata-no-Soba-ni_jvwfhl.jpg",
+        thumbUrl:
+            "https://res.cloudinary.com/dvdola2py/image/upload/v1704334368/Riria-Anata-no-Soba-ni_jvwfhl.jpg",
+        audio: "https://res.cloudinary.com/dvdola2py/video/upload/v1704334316/01._%E8%B2%B4%E6%96%B9%E3%81%AE%E5%81%B4%E3%81%AB_gk7kwq.flac",
+        palette: "blue",
+        id: uuidv4(),
+    },
+    {
         title: "Where Our Blue Is",
         artist: "Tatsuya Kitani",
         coverUrl:
